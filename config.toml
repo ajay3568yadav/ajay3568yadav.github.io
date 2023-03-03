@@ -1,7 +1,7 @@
 baseURL = 'https://ajay3568yadav.github.io/'
 languageCode = 'en-us'
 title = 'Ajay Hugo Site'
-theme = ananke
+theme = 'ananke'
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
